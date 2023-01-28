@@ -37,12 +37,12 @@
 // continue 
 // continue means skip that item 
 
-var numbers = [40, 34, 43, 74,24,52, 42,63, 63,87];
+// var numbers = [40, 34, 43, 74,24,52, 42,63, 63,87];
 
-for(var i = 0; i < numbers.length; i++){
-    var number = numbers[i];
-    if(number > 60){
-        continue;
-    }
-    console.log(number);
-}
+// for(var i = 0; i < numbers.length; i++){
+//     var number = numbers[i];
+//     if(number > 60){
+//         continue;
+//     }
+//     console.log(number);
+// }
