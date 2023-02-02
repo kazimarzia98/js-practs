@@ -126,14 +126,65 @@
 //     }
 // }
 
-function sumOfNumbers(number){
-    let sum = 0;
-    for(let i = 1; i <= number; i++){
-        sum = sum + i;
-        console.log(i,sum);
-    }
-    return sum;
+// function sumOfNumbers(number){
+//     let sum = 0;
+//     for(let i = 1; i <= number; i++){
+//         sum = sum + i;
+//         console.log(i,sum);
+//     }
+//     return sum;
   
-}
-const myNumber = [8];
-sumOfNumbers(myNumber);
+// }
+// const myNumber = [8];
+// sumOfNumbers(myNumber);
+
+
+// multiplication of number 
+// 3! = 3*2*1
+// it calls factorials...like 3! 4!
+// 4! = 4*3*2*1
+
+// function factorial(number){
+//     let multi = 1;
+//     for(let i = 1; i <= number; i++){
+//        multi = multi * i;
+//     }
+//     return multi;
+// }
+
+// const givenNumber = factorial(9);
+// console.log(givenNumber);
+
+
+// reverse factorial
+
+// let factorial(number);
+
+// function factorial(number){
+//     let result = 1;
+//     for(let i = number; i >= 1; i--){
+//         result = result * i;
+
+// }
+//     return result;
+// }
+
+// const myResult = factorial(9);
+// console.log(myResult);
+
+
+// factorial in while loop 
+
+// function factorial(number){
+//     let num = 1;
+//     let result = 1;
+//     while(num <= number ){
+//     result = result * num;
+//     num ++;
+//      }
+//      return result;
+      
+// }
+
+// const myNumber = factorial(7);
+// console.log(myNumber);
