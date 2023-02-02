@@ -24,7 +24,7 @@
 
 // display every element of an array
 
-var numbers = [40, 34, 43, 74,24,52, 42,63, 63,87];
+// var numbers = [40, 34, 43, 74,24,52, 42,63, 63,87];
 
 // for(var i = 0; i < numbers.length; i++){
 //     var number = numbers[i];
@@ -33,9 +33,9 @@ var numbers = [40, 34, 43, 74,24,52, 42,63, 63,87];
 
 
 
-var items =['bottle' ,'net' , 'box' , 'sunglass' , 'glass'];
+// var items =['bottle' ,'net' , 'box' , 'sunglass' , 'glass'];
 
-for( i = 0; i < items.length; i++){
-    var item = items[i];
-    console.log(item);
-}
+// for( i = 0; i < items.length; i++){
+//     var item = items[i];
+//     console.log(item);
+// }
